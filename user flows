@@ -1,0 +1,13 @@
+App:
+ExpenseApp
+
+Description:
+Track your expenses and add notes to have greater control of expenses
+
+Pages:
+Main page (on page load): App description with links to different routes to implement app
+Route page:  A expense calculator as well as an area to post information relevant to your expenses.
+
+User Flows:
+page load -> read app description => click start tracking
+Start Tracking => Directions => Expense calculator => Section to add notes about expenses
